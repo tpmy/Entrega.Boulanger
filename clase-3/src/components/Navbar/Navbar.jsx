@@ -19,7 +19,7 @@ const Navbar = () => {
         <li className="nav-item">
           <a className="nav-link" href="#">Link</a>
         </li>
-
+        <Dropdown/>
       </ul>
         <FormBusqueda busqueda={"Buscar Productos"}/>
     </div>
